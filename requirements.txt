@@ -1,0 +1,7 @@
+streamlit>=1.35
+requests>=2.31
+pandas>=2.0
+plotly>=5.20
+python-dotenv>=1.0
+anthropic>=0.40      # optional: only needed for the LLM explanation feature
+pytest>=8.0          # only needed to run the tests
